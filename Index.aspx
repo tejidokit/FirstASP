@@ -55,7 +55,7 @@
             </div>
             
             <div class="divcenterbuttons">
-                <asp:Button ID="btnProcessing" runat="server" OnClick="btnProcessing_Click" Text="Process" CssClass="btn" BackColor="#0000CC" />
+                <asp:Button ID="btnProcessing" runat="server" OnClick="btnProcessing_Click" Text="Process" CssClass="btn"/>
                 <asp:Button ID="btnClear" runat="server" OnClick="btnClear_Click" Text="Clear" CssClass="btn" />  
             </div>
             

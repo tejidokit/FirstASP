@@ -23,6 +23,8 @@ namespace FirstASP
         {
             txtFirstName.Text = string.Empty;
             txtLastName.Text = string.Empty;
+            txtEmployer.Text = string.Empty;
+            txtYearsworked.Text = string.Empty;
             txtOutput.Text = string.Empty;
         }
 
